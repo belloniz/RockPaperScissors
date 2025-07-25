@@ -4,10 +4,10 @@ This application is a simulation of the Rock, Paper, Scissors game using a simpl
 
 It includes the following features:
 
-- Accept a player move via POST request;
-- Randomly generate a move for the API;
-- Return the API move, the player's move, and the winner;
-- Validate the input and return an error message for invalid moves.
+- Accept a player play via POST request;
+- Randomly generate a play for the API;
+- Return the API play, the player's play, and the winner;
+- Validate the input and return an error message for invalid inputs.
 
 ## Technologies
 
